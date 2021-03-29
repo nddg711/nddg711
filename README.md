@@ -1,1 +1,1 @@
-👋 Hi, I'm Duong, a Python developer.
+👋 Hi, I'm Duong, a passionate developer.
