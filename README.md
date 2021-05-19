@@ -1,1 +1,1 @@
-👋 Hi, I'm Duong, a passionate developer.
+👋 A curious programmer interested in Competitive Programming.
