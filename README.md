@@ -1,1 +1,1 @@
-👋 A curious programmer interested in Competitive Programming.
+A curious programmer interested in Competitive Programming.
