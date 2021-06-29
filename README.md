@@ -1,1 +1,1 @@
-A curious programmer interested in Competitive Programming.
+I'm a Progammer :video_game:. 
